@@ -1,0 +1,35 @@
+{
+  "name": "Backend Social Networking",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "echo TODO"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "cors": "2.1.1",
+    "crypto-js": "3.1.2",
+    "deep-diff": "0.3.0",
+    "docco": "0.4.x",
+    "gulp": "3.8.9",
+    "helmet-csp": "^1.1.0",
+    "in-words": "0.1.0 ",
+    "jade": "^1.11.0",
+    "jshint": "~2.3.0",
+    "jwt-simple": "^0.2.0",
+    "lodash": "1.3.1",
+    "mocha": "~1.20.0",
+    "moment": "^2.9.0",
+    "nodemon": "^1.3.7",
+    "once": "~1.3.0",
+    "rand-token": "0.2.1",
+    "request": "~2.36.0",
+    "restify": "^3.0.2",
+    "restify-namespace": "0.1.0",
+    "sanitizer": "^0.1.3",
+    "should": "~4.0.0",
+    "unirest": "^0.5.0",
+    "winston": "0.8.1",
+    "xml2js": "^0.4.17"
+  }
+}
