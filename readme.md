@@ -2,6 +2,17 @@
 
 Social media aggregation service that allows users to search through from a variety of sources. You can find the front-end on https://github.com/ccodes/Social-Media-AngularJs. 
 
+
+## Next Release
+
+### Enhancements / Updates Needed (Updated Nov 14, 2017)
+* Add Testing: Mocha and Chai.js
+* Change folders structure: instead of grouping files by their type (controllers, routs, etc), folder them up by social networ (e.g. facebook, instagram, twitter, etc), this way we start framing it more modular, in other words, to add a new social channel, would be as easy as adding a new "folder".
+* Fix Instragram endpoint: Add "Sandbox Users" on Instagram API Sandbox testing environment, (and manually create posts), this way we could query existing posts from our solution.
+* The config file was added plain text because I was taking advantage of AWS S3 Server-Side Encryption, however, in the next release it would be via Env Variables.
+* Run JSHint and perform updates needed
+* ...
+
 ## Setting Up
 
 ### Prerequisites
